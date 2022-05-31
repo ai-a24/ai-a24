@@ -1,6 +1,7 @@
 #### 名前：田井厚志
 #### メールアドレス：tai@ai.cs.ehime-u.ac.jp
-#### 所属：愛媛大学大学院 理工学研究科 電子情報工学専攻 情報工学科コース2回生 人工知能研究室　
+#### 所属：愛媛大学大学院 理工学研究科 電子情報工学専攻 情報工学科コース2回生 人工知能研究室
+#### 研究業績：FRelu関数を用いたマルチモーダル機械翻訳（卒論）
 
 <!--
 **ai-a24/ai-a24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
