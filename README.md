@@ -1,6 +1,6 @@
-### 名前：田井厚志
-### tai@ai.cs.ehime-u.ac.jp
-### 所属：愛媛大学大学院 理工学研究科 電子情報工学専攻 情報工学科コース2回生 人工知能研究室　
+# 名前：田井厚志
+# メールアドレス：tai@ai.cs.ehime-u.ac.jp
+# 所属：愛媛大学大学院 理工学研究科 電子情報工学専攻 情報工学科コース2回生 人工知能研究室　
 
 <!--
 **ai-a24/ai-a24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
